@@ -4,13 +4,17 @@
 
 ## 目录
 
-- 学习  
-  - 语言
-    - C哥预测
-    - PTE备考记录
+- study records  
+  - language
+    - PTE
+      - C
+      - PTE exam preparation records
+  - computer
+  - philosophy
+    - Yale University-Death
 
-- 阅读
-  - 工具
+- reading records
+  - tools
     -《成事的时间管理》
-- 效率
+- efficiency improvements
   - markdown study record
