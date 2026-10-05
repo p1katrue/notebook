@@ -1,6 +1,6 @@
 # notebook
 
-> this is my nootbook
+> this is my notebook
 
 ## 目录
 
