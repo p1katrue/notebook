@@ -1,16 +1,44 @@
-# notebook
+# 📓 Knowledge Vault & Learning Notes
 
-> this is my notebook
+> 个人知识库与长期学习笔记：涵盖行为经济学专题、语言备考、工具流与通识阅读沉淀。
 
-## 目录
+---
 
-- study records  
-  - language
-    - PTE
-      - C
-      - PTE exam preparation records
-- reading records
-  - tools
-    -《成事的时间管理》
-- efficiency improvements
-  - markdown study record
+## 📑 核心目录导航
+
+| 板块 | 主题领域 | 包含内容与代表文件 | 状态 |
+| :--- | :--- | :--- | :---: |
+| 🧠 **[行为经济学](./行为经济学/)** | 决策机制 / 认知偏差 / 实验经济学 | [《牛津通识读本：行为经济学》精读笔记](./行为经济学/Behavioral-Economics-Reading-Notes.md) | 🌟 核心维护 |
+| 🗣️ **[语言备考 (Language)](<./study records/language/PTE/>)** | 国际英语考试 / 表达沉淀 | PTE 备考技巧、高频词汇与预测文档 | 持续更新 |
+| 📚 **[阅读札记 (Reading)](<./reading records/tools/>)** | 个人效能 / 方法论读书笔记 | 《成事的时间管理》及工具类书籍总结 | 阶段沉淀 |
+| ⚡ **[生产力与工具流](<./efficiency improvements/>)** | 效率工具 / 工作流优化 | Markdown 笔记流、时间管理与排版规范 | 阶段沉淀 |
+
+---
+
+## 🔍 板块内容速览
+
+### 1. 🧠 行为经济学 (Behavioral Economics)
+聚焦真实决策环境下的心理机制与非理性行为，结合通识读本与学术模型进行交叉验证：
+* 📖 **[《牛津通识读本：行为经济学》精读与个人批注](./行为经济学/Behavioral-Economics-Reading-Notes.md)**
+  * **动机与激励**：小额报酬挤出效应（Crowding Out）、有效工资与互惠惩罚。
+  * **快速思考**：可得性启发、代表性启发式、锚定效应与认知失调。
+  * **风险决策**：确定性效应、反射效应与前景理论（Prospect Theory）。
+  * **跨期选择**：耐心与非耐心自我博弈、准双曲贴现与现时偏见（$\beta$-$\delta$ Model）。
+  * **行为宏观**：情绪波动、社会心境（Social Mood）对总需求与商业周期的传导。
+
+### 2. 🗣️ 学习与语言备考 (Study & Language)
+* **[PTE 备考记录库](<./study records/language/PTE/>)**：记录出国语言考试阶段的备考历程、机经预测文档整理与英语逻辑表达习惯。
+
+### 3. 📚 读书记录与工具方法 (Reading & Tools)
+* **[工具与方法论书单](<./reading records/tools/>)**：梳理关于时间精力管理、目标拆解（如《成事的时间管理》）等实用心法。
+
+### 4. ⚡ 效率与工作流 (Efficiency Improvements)
+* **[Markdown 学习与效率笔记](<./efficiency improvements/>)**：从初期排版语法到如今结构化文档沉淀的工具演进记录。
+
+---
+
+## 📌 记录原则
+
+1. **注重结构化**：拒绝流水账，只沉淀具备复用价值的框架与方法论。
+2. **理论与思考结合**：读书笔记均附带个人批注（Personal Thoughts）与现实映射。
+3. **长期主义**：见证从语言通识到专业学术的知识演进历程。
